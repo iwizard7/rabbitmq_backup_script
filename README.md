@@ -1,17 +1,6 @@
 # Скрипт резервного копирования для RabbitMQ ⚙️
-_Social buttons_
+https://img.shields.io/github/languages/code-size/iwizard7/rabbitmq_backup_script
 
-[![iwizard7 - iwizard7](https://img.shields.io/static/v1?label=iwizard7&message=iwizard7&color=blue&logo=github)](https://github.com/iwizard7/iwizard7 "Go to GitHub repo")
-[![stars - iwizard7](https://img.shields.io/github/stars/iwizard7/iwizard7?style=social)](https://github.com/iwizard7/iwizard7)
-[![forks - iwizard7](https://img.shields.io/github/forks/iwizard7/iwizard7?style=social)](https://github.com/iwizard7/iwizard7)
-
-
-_Repo metadata_
-
-
-[![GitHub tag](https://img.shields.io/github/tag/iwizard7/iwizard7?include_prereleases=&sort=semver&color=blue)](https://github.com/iwizard7/iwizard7/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - iwizard7](https://img.shields.io/github/issues/iwizard7/iwizard7)](https://github.com/iwizard7/iwizard7/issues)
 
 Этот скрипт Bash предназначен для создания резервных копий данных RabbitMQ и сохранения их в Git-репозиторий. Вот как он работает:
 
