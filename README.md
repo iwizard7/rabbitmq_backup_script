@@ -1,6 +1,5 @@
 # Скрипт резервного копирования для RabbitMQ ⚙️
-https://img.shields.io/github/languages/code-size/iwizard7/rabbitmq_backup_script
-
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iwizard7/rabbitmq_backup_script)
 
 Этот скрипт Bash предназначен для создания резервных копий данных RabbitMQ и сохранения их в Git-репозиторий. Вот как он работает:
 
